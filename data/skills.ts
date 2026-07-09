@@ -6,7 +6,6 @@ export const skillGroups: SkillGroup[] = [
     items: [
       { name: "WordPress", level: 95 },
       { name: "Custom Theme Dev", level: 90 },
-      { name: "Plugin Development", level: 85 },
     ],
   },
   {
