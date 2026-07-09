@@ -10,7 +10,7 @@ import styles from "@/styles/projects.module.css";
 export default function Projects() {
   return (
     <section id="projects">
-      <SectionTitle eyebrow="projects" title="// selected_work.py" />
+      <SectionTitle eyebrow="projects" title="selected_work" />
       <div className={styles.list}>
         {projects.map((project) => (
           <Reveal

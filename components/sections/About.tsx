@@ -6,7 +6,7 @@ import styles from "@/styles/about.module.css";
 export default function About() {
   return (
     <section id="about">
-      <SectionTitle eyebrow="about" title="// who's writing this code" />
+      <SectionTitle eyebrow="about" title="Get To Know Me" />
       <div className={styles.grid}>
         <Reveal className={styles.text}>
           <p>
