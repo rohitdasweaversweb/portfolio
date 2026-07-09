@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      &copy; {new Date().getFullYear()} Rohit Das
+      &copy; {new Date().getFullYear()}  By - Rohit Das
     </footer>
   );
 }
