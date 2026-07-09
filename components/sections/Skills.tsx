@@ -47,7 +47,7 @@ export default function Skills() {
 
   return (
     <section id="skills" ref={scope}>
-      <SectionTitle eyebrow="skills" title="// stack --list" />
+      <SectionTitle eyebrow="skills" title="stack --list" />
       <div className={styles.groups}>
         {skillGroups.map((group) => (
           <Reveal key={group.title} className={styles.card}>

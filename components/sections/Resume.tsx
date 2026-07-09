@@ -8,7 +8,7 @@ import styles from "@/styles/resume.module.css";
 export default function Resume() {
   return (
     <section id="resume">
-      <SectionTitle eyebrow="resume" title="// resume.pdf" />
+      <SectionTitle eyebrow="resume" title="resume.pdf" />
       <Reveal>
         <Window filename="Rohit_Das_CV.pdf" className={styles.window}>
           <div className={styles.icon}>
