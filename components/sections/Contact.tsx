@@ -11,7 +11,7 @@ export default function Contact() {
 
   return (
     <section id="contact">
-      <SectionTitle eyebrow="contact" title="// get_in_touch()" />
+      <SectionTitle eyebrow="contact" title="Get In Touch" />
       <Reveal>
         <Window filename="contact.node" className={styles.window}>
           <div className={styles.comment}>
