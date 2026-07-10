@@ -15,8 +15,8 @@ export const profile: Profile = {
     // TODO: replace with your real contact details
     email: "dasrohit712000@gmail.com",
     phone: "+91 70039 13661",
-    linkedin: "https://www.linkedin.com/in/rohit-das-0b91801aa",
-    github: "https://github.com/DASROHIT712000",
+    linkedin: "/in/rohit-das-0b91801aa",
+    github: "github.com/DASROHIT712000",
   },
   resumeUrl: "/resume.pdf",
 };
